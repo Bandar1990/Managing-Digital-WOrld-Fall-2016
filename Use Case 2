@@ -10,12 +10,15 @@ Corporate Manager: To managied project
 Corporate Developer: To manage code information
 Preconditions: 
 
+Relevant file/package is available
 
+PFile information is in SPDX Database 
 
+Main Success Scenario: Corporate developer is able to manage the code information
 
+Failed End Conditions: Corporate developer is unable to manage code info
 
-
-
+Trigger: Corporate developer sends file to manage code information.
 
 
 
